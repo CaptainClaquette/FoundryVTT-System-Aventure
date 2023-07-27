@@ -2,7 +2,7 @@
   "id": "AventureJDG",
   "title": "Aventure",
   "description": "Le système de jeu Aventure vue sur la chaine Bazar du grenier",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "compatibility": {
     "minimum": 10,
     "maximum": 11
