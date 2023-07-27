@@ -1,0 +1,22 @@
+{
+  "AVENTURE.AbilityStr": "Strength",
+  "AVENTURE.AbilityCon": "Constitution",
+  "AVENTURE.AbilityDex": "Dexterity",
+  "AVENTURE.AbilityInt": "Intelligence",
+  "AVENTURE.AbilityWis": "Wisdom",
+  "AVENTURE.AbilityCha": "Charisma",
+
+  "AVENTURE.AbilityStrAbbr": "str",
+  "AVENTURE.AbilityConAbbr": "con",
+  "AVENTURE.AbilityDexAbbr": "dex",
+  "AVENTURE.AbilityIntAbbr": "int",
+  "AVENTURE.AbilityWisAbbr": "wis",
+  "AVENTURE.AbilityChaAbbr": "cha",
+
+  "AVENTURE.EffectCreate": "Create Effect",
+  "AVENTURE.EffectToggle": "Toggle Effect",
+  "AVENTURE.EffectEdit": "Edit Effect",
+  "AVENTURE.EffectDelete": "Delete Effect",
+
+  "AVENTURE.Add": "Add"
+}
