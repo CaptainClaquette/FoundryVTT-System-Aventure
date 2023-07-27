@@ -10,7 +10,7 @@ export class AventureActorSheet extends ActorSheet {
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
       classes: ["aventure", "sheet", "actor"],
-      template: "systems/aventure/templates/actor/actor-sheet.html",
+      template: "systems/AventureJDG/templates/actor/actor-sheet.html",
       width: 600,
       height: 600,
       tabs: [{ navSelector: ".sheet-tabs", contentSelector: ".sheet-body", initial: "features" }]
@@ -19,7 +19,7 @@ export class AventureActorSheet extends ActorSheet {
 
   /** @override */
   get template() {
-    return `systems/aventure/templates/actor/actor-${this.actor.type}-sheet.html`;
+    return `systems/AventureJDG/templates/actor/actor-${this.actor.type}-sheet.html`;
   }
 
   /* -------------------------------------------- */

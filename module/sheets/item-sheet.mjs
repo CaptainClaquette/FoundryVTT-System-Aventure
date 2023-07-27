@@ -16,7 +16,7 @@ export class AventureItemSheet extends ItemSheet {
 
   /** @override */
   get template() {
-    const path = "systems/aventure/templates/item";
+    const path = "systems/AventureJDG/templates/item";
     // Return a single sheet for all item types.
     // return `${path}/item-sheet.html`;
 

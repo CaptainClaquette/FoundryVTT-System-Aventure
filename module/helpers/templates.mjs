@@ -7,9 +7,9 @@
   return loadTemplates([
 
     // Actor partials.
-    "systems/aventure/templates/actor/parts/actor-features.html",
-    "systems/aventure/templates/actor/parts/actor-items.html",
-    "systems/aventure/templates/actor/parts/actor-spells.html",
-    "systems/aventure/templates/actor/parts/actor-effects.html",
+    "systems/AventureJDG/templates/actor/parts/actor-features.html",
+    "systems/AventureJDG/templates/actor/parts/actor-items.html",
+    "systems/AventureJDG/templates/actor/parts/actor-spells.html",
+    "systems/AventureJDG/templates/actor/parts/actor-effects.html",
   ]);
 };
